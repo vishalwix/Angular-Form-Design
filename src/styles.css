@@ -1,1 +1,36 @@
 /* You can add global styles to this file, and also import other style files */
+@import '@angular/material/prebuilt-themes/indigo-pink.css';
+
+
+div.container{
+  margin: 0px 40px;
+}
+
+.fill-remainig-space{
+  flex: 1 1 auto;
+}
+
+form.normal-form{
+  margin: 10px;
+}
+
+.controllers-container {
+  width: 100%;
+  padding: 10px;
+}
+
+.controllers-container > * {
+  width: 100%;
+}
+
+.add-bottem-padding{
+  padding-bottom: 20px;
+}
+
+mat-radio-group mat-radio-button{
+  margin-left: 20px;
+}
+
+.button-row button{
+  margin: 5px;
+}

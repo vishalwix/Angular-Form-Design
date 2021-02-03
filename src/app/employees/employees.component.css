@@ -1,0 +1,9 @@
+.position-fixed{
+  position: sticky;
+  top: 0px;
+  background-color: "primary";
+}
+
+.form-style{
+  padding-top: 50px;
+}
